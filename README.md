@@ -8,7 +8,7 @@ If you find any bug or not working functions you can contact me.
 
 * Study : UnderGraduate in Computer Science GCU Lahore, Pakistan
 
-* Repo : (https://github.com/Anonym0usWork1221/Memory-Dumper)
+* Repo : (https://github.com/AISH-HAMZA/Bot-Detector.git)
 
 MIT License
 
