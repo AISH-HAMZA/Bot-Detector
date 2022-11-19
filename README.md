@@ -18,5 +18,3 @@ Copyright (c) 2022 AmeerHamza
 
 * Needed python version 3.6+
 
-#Usage
-
