@@ -16,5 +16,7 @@ Copyright (c) 2022 AmeerHamza
 
 # System & Env Requirements
 
------------
 * Needed python version 3.6+
+
+#Usage
+
